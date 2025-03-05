@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zeyad Abdelwahab</h1>
-<h3 align="center">Data Scientist&Analytics Engineer, former android native developer</h3>
+<h3 align="center">Data Scientist & Analytics Engineer | Former Android Native Developer | Passionate About AI & Data-Driven Solutions</h3>
+
+- 📫 How to reach me **zeyadabdelwahab684@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeyad-abdelwahab-140652219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyad-abdelwahab-140652219/" height="30" width="40" /></a>
 <a href="https://kaggle.com/zeyadabdelwahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadabdelwahab" height="30" width="40" /></a>
 </p>
 
