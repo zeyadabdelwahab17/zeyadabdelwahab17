@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeyad Abdelwahab</h1>
-<h3 align="center">Data Scientist & Analytics Engineer | Former Android Native Developer | Passionate About AI & Data-Driven Solutions</h3>
+<h3 align="center">Data Scientist & AI Engineer | Former Android Native Developer | Passionate About AI & Data-Driven Solutions</h3>
 
 - 📫 How to reach me **https://zeyadabdelwahab.taplink.ws**
 
